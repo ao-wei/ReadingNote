@@ -1,2 +1,5 @@
 *.[oa]
 *~
+
+#忽略所有目录下的OneNote_RecycleBin文件夹
+OneNote_RecycleBin/
